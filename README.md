@@ -1,12 +1,12 @@
 # perceptron-python
 En este artículo, veremos cómo entrenar un Perceptrón (la unidad básica de una red neuronal) para que aprenda a comportarse como estas compuertas. 
 
-1. Introducción
+#1. Introducción
 Las compuertas lógicas AND y OR son bloques fundamentales en la computación y la electrónica digital. En este artículo, veremos cómo entrenar un Perceptrón (la unidad básica de una red neuronal) para que aprenda a comportarse como estas compuertas.
 
 Usaremos Python y algunas librerías como NumPy para manejar la lógica de entrenamiento, Matplotlib para visualizar el error, y un poco de lógica propia para detener el entrenamiento de forma temprana (early stopping). Además, hemos implementado una función que permite al usuario ingresar valores en tiempo de ejecución para probar la red.
 
-2. ¿Qué es un Perceptrón?
+#2. ¿Qué es un Perceptrón?
 El Perceptrón es el modelo de neurona artificial más sencillo. Consiste en:
 
 Pesos (weights) que multiplican las entradas.
